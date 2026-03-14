@@ -1,0 +1,9 @@
+[submodule "pack/plugins/start/nvim-web-devicons"]
+	path = pack/plugins/start/nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons.git
+[submodule "pack/plugins/start/oil.nvim"]
+	path = pack/plugins/start/oil.nvim
+	url = https://github.com/stevearc/oil.nvim.git
+[submodule "pack/plugins/start/rose-pine"]
+	path = pack/plugins/start/rose-pine
+	url = https://github.com/rose-pine/neovim.git
