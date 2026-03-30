@@ -5,6 +5,7 @@ vim.opt.expandtab = true
 
 vim.opt.number = true
 vim.opt.relativenumber = true
+vim.opt.wrap = false
 
 vim.api.nvim_create_autocmd('TextYankPost', {
     desc = 'Highlight when yanking (copying) text',
